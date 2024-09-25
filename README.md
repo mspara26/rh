@@ -2,8 +2,8 @@
 
 
 ## Environments
-- Preview: Preview: https://main--rh--AdobeDevXSC.hlx.page/
-- Live: https://main--rh--AdobeDevXSC.hlx.live/
+- Preview: Preview: https://main--rh--mspara26.aem.page/
+- Live: https://main--rh--mspara26.aem.live/
 
 ## Installation
 
